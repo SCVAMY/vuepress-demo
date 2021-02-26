@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SCVAMY/vuepress-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCVAMY/vuepress-demo/issues"
+  },
+  "homepage": "https://github.com/SCVAMY/vuepress-demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "node-gyp": "^7.1.2"
+  }
+}
